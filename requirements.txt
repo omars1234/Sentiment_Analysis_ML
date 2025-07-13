@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+ipykernel
+nbformat
+python-collection
+textblob
+emoji
+scikit-learn
+gensim
+plotly
