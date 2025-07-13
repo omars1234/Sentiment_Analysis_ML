@@ -24,4 +24,4 @@ pip install -r requirements.txt
 ## *Project Structure :*
 
 
-![Logo](Price_analysis.drawio.png)
+![Logo](Sentiment_Analysis_ML.png)
